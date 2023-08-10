@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LegionC
 - 👀 I’m new in routing & switching. 
-- 🌱 I’m currently learning python, routing & switching. 
+- 🌱 I’m trying to pass the HCIE in Datacom. Still knows nothing about the lab exams. 
 - 📫 How to reach me shangpojia@gmail.com
 
 <!---
