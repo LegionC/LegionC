@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LegionC
-- 👀 I’m new in routing & switching. 
+- 👀 I’m planning to learn front-end again. Hope I can do it this time. 
 - 🌱 I’m trying to pass the HCIE in Datacom. Still knows nothing about the lab exams. 
 - 📫 How to reach me shangpojia@gmail.com
 
