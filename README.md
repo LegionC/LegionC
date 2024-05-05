@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LegionC
 - 👀 I’m planning to learn front-end again. Hope I can do it this time. 
-- 🌱 I’m trying to pass the HCIE in Datacom. Still knows nothing about the lab exams. 
+- 🌱 I’m trying to pass the HCIE in Datacom. Still knows nothing about the lab exams, doing the X Capmus Lab.
 - 📫 How to reach me shangpojia@gmail.com
 
 <!---
