@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LegionC
 - 👀 I’m planning to learn front-end again. Hope I can do it this time. 
-- 🌱 I’m trying to pass the HCIE in Datacom. Doing the X Capmus Lab, still know little about datacom.fxxk hcie
+- 🌱 Failed to learn HCIE. Now working on CCIA again instead. Stuck on STP. And also learning CodeFast from Marclou.
 - 📫 How to reach me mirror@legionc.xyz
 
 <!---
