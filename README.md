@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LegionC
-- 👀 I’m planning to learn front-end again. Hope I can do it this time. 
-- 🌱 Failed to learn HCIE. Now working on CCIA again instead. Stuck on STP. And also learning CodeFast from Marclou.
+- 🌱 Failed to learn HCIE. CCNA Completed. Learning CCNP ENCOR.
 - 📫 How to reach me mirror@legionc.xyz
 
 <!---
