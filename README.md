@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LegionC
-- 🌱 Failed to learn HCIE. CCNA Completed. Learning CCNP ENCOR.
+- 🌱 Failed to learn HCIE. CCNA Completed. Learning CCNP ENCOR. Struggling.
 - 📫 How to reach me mirror@legionc.xyz
 
 <!---
